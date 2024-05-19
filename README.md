@@ -1,2 +1,1 @@
-# cursito
-Prueba Modulo 2
+proyecto prueba de como clonar un repositorio
